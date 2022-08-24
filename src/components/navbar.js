@@ -25,7 +25,7 @@ const Navbar = () => {
 export default Navbar
 
 const navItems =[
-    {id:1,title:'Acceuil'},
+    {id:1,title:'Acceuilyu'},
     {id:2,title:'Services', subtitle:true, sub:'TopGear'},
     {id:3,title:'Contacts'},
 ]
